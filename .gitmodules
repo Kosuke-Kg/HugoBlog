@@ -1,0 +1,3 @@
+[submodule "MyLifeBlog/themes/hugo-theme-stack"]
+	path = MyLifeBlog/themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
