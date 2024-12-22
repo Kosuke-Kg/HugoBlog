@@ -1,0 +1,21 @@
+{
+    "name": "Hugo My Blog",
+    "build": {
+        "dockerfile": "./Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "vscode-icons-team.vscode-icons",
+                "openai.openai-chatgpt-adhoc",
+                "streetsidesoftware.code-spell-checker",
+                "mhutchie.git-graph",
+                "GitHub.copilot",
+                "GitHub.copilot-chat",
+                "oderwat.indent-rainbow",
+                "DavidAnson.vscode-markdownlint",
+                "shardulm94.trailing-spaces"
+            ]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "editor.renderWhitespace": "all",
+    "editor.formatOnSave": true,
+    "github.copilot.editor.enableAutoCompletions": true,
+    "workbench.iconTheme": "vscode-icons",
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "files.trimTrailingWhitespace": false,
+        "editor.trimAutoWhitespace": false,
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+    },
+    "[json][jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features",
+    }
+}
