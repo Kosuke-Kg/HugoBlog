@@ -14,7 +14,8 @@
                 "GitHub.copilot-chat",
                 "oderwat.indent-rainbow",
                 "DavidAnson.vscode-markdownlint",
-                "shardulm94.trailing-spaces"
+                "shardulm94.trailing-spaces",
+                "redhat.vscode-yaml"
             ]
         }
     }

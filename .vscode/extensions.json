@@ -1,13 +1,14 @@
 {
     "recommendations": [
-        "streetsidesoftware.code-spell-checker",
-        "ms-vscode-remote.remote-containers",
-        "github.copilot",
-        "github.copilot-chat",
-        "oderwat.indent-rainbow",
-        "davidanson.vscode-markdownlint",
-        "shardulm94.trailing-spaces",
         "vscode-icons-team.vscode-icons",
-        "mhutchie.git-graph"
+        "openai.openai-chatgpt-adhoc",
+        "streetsidesoftware.code-spell-checker",
+        "mhutchie.git-graph",
+        "GitHub.copilot",
+        "GitHub.copilot-chat",
+        "oderwat.indent-rainbow",
+        "DavidAnson.vscode-markdownlint",
+        "shardulm94.trailing-spaces",
+        "redhat.vscode-yaml"
     ]
 }

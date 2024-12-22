@@ -1,0 +1,16 @@
+baseURL: "https://Kosuke-Kg.github.io"
+languageCode: "ja"
+title: "My New Hugo Site"
+theme: "hugo-theme-stack"
+
+publishDir: "docs"
+
+params:
+  sidebar:
+    emoji:
+    subtitle: ""
+    avatar:
+      enabled: true
+      local: false
+      src: "/img/sidebar/avatar.png"
+  local: false
